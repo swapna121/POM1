@@ -13,6 +13,7 @@ public class Client {
 		eref.setAddress("Kolkata");
 		eref.setEname("CRISTIANO");
 		System.out.println("details:  " +eref);
+		//okok
 	}
 	
 	Resource resource=new ClassPathResource("swapna.xml");
