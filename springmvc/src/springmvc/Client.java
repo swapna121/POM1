@@ -14,6 +14,7 @@ public class Client {
 		eref.setEname("CRISTIANO");
 		System.out.println("details:  " +eref);
 		//okok
+		//ss
 	}
 	
 	Resource resource=new ClassPathResource("swapna.xml");
